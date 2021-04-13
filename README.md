@@ -12,7 +12,7 @@ If you use this work, please cite:
 @inproceedings{mailer2021,
   title={Evolving Gaits for Damage Control in a Hexapod Robot},
   author={Mailer, Christopher and Nitschke, Geoff and Raw, Leanne},
-  booktitle={Proceedings of the 2020 Genetic and Evolutionary Computation Conference},
+  booktitle={Proceedings of the 2021 Genetic and Evolutionary Computation Conference},
   year={2021}
 }
 ``` 
