@@ -10,9 +10,9 @@ If you use this work, please cite:
 **BibTex**:
 ```latex
 @inproceedings{mailer2021,
-  title={},
-  author={},
-  booktitle={},
+  title={Evolving Gaits for Damage Control in a Hexapod Robot},
+  author={Mailer, Christopher and Nitschke, Geoff and Raw, Leanne},
+  booktitle={Proceedings of the 2020 Genetic and Evolutionary Computation Conference},
   year={2021}
 }
 ``` 
