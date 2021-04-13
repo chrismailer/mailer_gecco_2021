@@ -5,7 +5,8 @@ This repository contains all of the code necessary to replicate the simulated ex
 ## Citing
 If you use this work, please cite:
 
->TBC>
+>TBC
+
 **BibTex**:
 ```latex
 @inproceedings{mailer2021,
