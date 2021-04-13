@@ -1,0 +1,7 @@
+numpy
+pybullet
+matplotlib
+sklearn
+mpi4py
+GPy
+scipy

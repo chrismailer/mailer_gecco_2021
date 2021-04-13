@@ -1,0 +1,13 @@
+#!/bin/bash
+#PBS -l select=1:ncpus=1:nodetype=haswell_reg
+#PBS -P CSCI1142
+#PBS -q serial
+#PBS -l walltime=0:05:00
+#PBS -o /mnt/lustre/users/cmailer/code/script.out
+#PBS -e /mnt/lustre/users/cmailer/code/script.err
+#PBS -m abe -M mlrchr001@myuct.ac.za
+#PBS -N PyBullet Benchmark
+
+module load chpc/python/3.7.0
+cd /mnt/lustre/users/cmailer/code/
+python3 simulator_benchmark.py
