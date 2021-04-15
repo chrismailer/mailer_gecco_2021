@@ -5,7 +5,7 @@ This repository contains all of the code necessary to replicate the simulated ex
 ## Citing
 If you use this work, please cite:
 
->TBC
+>Mailer, C., Nitschke, G., and Raw, L. 2021. Evolving Gaits for Damage Control in a Hexapod Robot. In Proceedings of the 2021 Genetic and Evolutionary Computation Conference.
 
 **BibTex**:
 ```latex
@@ -18,6 +18,9 @@ If you use this work, please cite:
 ``` 
 
 ## Python package dependencies
+'''shell
+pip install -r requirements.txt
+'''
 * numpy
 * pybullet
 * matplotlib
