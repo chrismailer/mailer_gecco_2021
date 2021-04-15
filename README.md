@@ -18,9 +18,9 @@ If you use this work, please cite:
 ``` 
 
 ## Python package dependencies
-'''shell
+```shell
 pip install -r requirements.txt
-'''
+```
 * numpy
 * pybullet
 * matplotlib
