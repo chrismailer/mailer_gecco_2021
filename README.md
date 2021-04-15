@@ -11,7 +11,7 @@ If you use this work, please cite:
 ```latex
 @inproceedings{mailer2021,
   title={Evolving Gaits for Damage Control in a Hexapod Robot},
-  author={Mailer, Christopher and Nitschke, Geoff and Raw, Leanne},
+  author={Christopher Mailer and Geoff Nitschke and Leanne Raw},
   booktitle={Proceedings of the 2021 Genetic and Evolutionary Computation Conference},
   year={2021}
 }
