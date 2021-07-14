@@ -5,16 +5,19 @@ This repository contains all of the code necessary to replicate the simulated ex
 ## Citing
 If you use this work, please cite:
 
->Mailer, C., Nitschke, G., and Raw, L. 2021. Evolving Gaits for Damage Control in a Hexapod Robot. In Proceedings of the 2021 Genetic and Evolutionary Computation Conference.
+>Mailer, C., Nitschke, G., and Raw, L. 2021. Evolving Gaits for Damage Control in a Hexapod Robot. In Proceedings of the Genetic and Evolutionary Computation Conference (pp. 146–153). Association for Computing Machinery.
 
 **BibTex**:
 ```latex
 @inproceedings{mailer2021,
-  title={Evolving Gaits for Damage Control in a Hexapod Robot},
-  author={Mailer, Christopher and Nitschke, Geoff and Raw, Leanne},
-  booktitle={Proceedings of the 2021 Genetic and Evolutionary Computation Conference},
-  year={2021}
-}
+  author = {Mailer, Christopher and Nitschke, Geoff and Raw, Leanne},
+  title = {Evolving Gaits for Damage Control in a Hexapod Robot},
+  year = {2021},
+  publisher = {Association for Computing Machinery},
+  doi = {10.1145/3449639.3459271},
+  booktitle = {Proceedings of the Genetic and Evolutionary Computation Conference},
+  pages = {146–153},
+  series = {GECCO '21} }
 ``` 
 
 ## Python package dependencies
