@@ -1,6 +1,6 @@
 # Evolving Gaits for Damage Control in a Hexapod Robot
 
-This repository contains all of the code necessary to replicate the simulated experiments from the paper *Evolving Gaits for Damage Control in a Hexapod Robot*.
+This repository contains all of the code necessary to replicate the simulated experiments from the paper [Evolving Gaits for Damage Control in a Hexapod Robot](https://dl.acm.org/doi/abs/10.1145/3449639.3459271).
 
 ## Citing
 If you use this work, please cite:
